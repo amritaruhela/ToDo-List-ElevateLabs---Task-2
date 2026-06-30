@@ -1,0 +1,5 @@
+Complete Python Calculator Assignment
+Build Console-Based To-Do List
+Test file handling functionality
+Push project to GitHub
+Submit internship assignment
