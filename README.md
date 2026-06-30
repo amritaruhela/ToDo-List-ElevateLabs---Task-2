@@ -44,7 +44,7 @@ ToDo-List/
 ### Clone the Repository
 
 ``` bash
-git clone https://github.com/your-username/ToDo-List.git
+git clone https://github.com/amritaruhela/ToDo-List.git
 ```
 
 ### Navigate to the Project Directory
@@ -148,7 +148,7 @@ This project demonstrates:
 
 ## 👨‍💻 Author
 
-**Himanshu Batra**
+**Amrita Ruhela**
 
 B.Tech Computer Science Engineering (Data Science & Machine Learning)
 
